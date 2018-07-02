@@ -15,5 +15,3 @@ module.exports = class UserInput {
         return filePath;
     }
 };
-/Users/alban/Documents/Training/packageManagement/src/test-images
-/Users/alban/Documents/Training/packageManagement/src/index.js
