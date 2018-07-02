@@ -1,0 +1,19 @@
+{
+  "name": "packagemanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "readline-sync": "^1.4.9",
+    "sharp": "^0.20.5",
+    "webpack": "^4.12.2",
+    "webpack-cli": "^3.0.8"
+  }
+}
